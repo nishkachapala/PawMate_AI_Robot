@@ -1,5 +1,8 @@
 PAWMATE AI: TECHNICAL SYSTEM SPECIFICATION
+
+
 PROJECT THEME OVERVIEW
+
 PawMate AI implements an embodied, pet-like robotic home companion designed to assist individuals with home automation, visual monitoring, and personalized task management. Unlike standard, static smart-home hubs, it bridges the gap between human-robot interaction and autonomous safety engineering. The system features a playful, canine-like persona to build trust, uses a decoupled multi-agent setup to separate tasks, and enforces absolute safety limits that override any AI-generated movement plans.
 
 SYSTEM ARCHITECTURE
